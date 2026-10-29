@@ -1,0 +1,25 @@
+{
+  "method": "Built-in image generation",
+  "references": [
+    "dist/assets/garden-2.webp",
+    "dist/assets/garden-4.webp"
+  ],
+  "prompts": [
+    {
+      "asset": "dist/assets/garden-5.webp",
+      "prompt": "Use case illustration-story. Create ONE new square full-page text-free illustration in the EXACT established Ping the Panda picture-book world from these references. Keep Ping's round fluffy cream-white face and tummy, brown-black limbs and patches, forehead tuft, and Brenda's purple wings with dark violet spots. Match hand-drawn ink contours, watercolor/colored pencil textures, green ochre turquoise warm palette and detailed foreground, middle ground and background. Not a collage, flat vector or 3D. No captions, symbols, words, letters, panels or speech bubbles. Soft painted paper edges. This is a NEW distinct scene: Ping puts on a pair of green gingham gardening gloves while standing beside a little potting bench. He looks curious and ready to try gardening for the first time. Brenda the purple butterfly hovers nearby encouragingly. Small plants on bench, glove basket, wooden cottage doorway, flowers, detailed garden. No digging yet."
+    },
+    {
+      "asset": "dist/assets/garden-6.webp",
+      "prompt": "Use case illustration-story. Create ONE new square full-page text-free illustration in the EXACT established Ping the Panda picture-book world from these references. Keep Ping's round fluffy cream-white face and tummy, brown-black limbs and patches, forehead tuft, and Brenda's purple wings with dark violet spots. Match hand-drawn ink contours, watercolor/colored pencil textures, green ochre turquoise warm palette and detailed foreground, middle ground and background. Not a collage, flat vector or 3D. No captions, symbols, words, letters, panels or speech bubbles. Soft painted paper edges. This is a NEW distinct scene: Ping crouches beside a row of tiny seedlings with his chin resting on a gloved paw, studying them patiently with an amused hopeful expression. Brenda laughs kindly while hovering above seedlings. His small blue watering can sits unused next to him. Wide view showing rows of tiny plants, mature vegetables beyond, stone path and garden fence. The visual theme is waiting and patience, not watering."
+    },
+    {
+      "asset": "dist/assets/garden-7.webp",
+      "prompt": "Use case illustration-story. Create ONE new square full-page text-free illustration in the EXACT established Ping the Panda picture-book world from these references. Keep Ping's round fluffy cream-white face and tummy, brown-black limbs and patches, forehead tuft, and Brenda's purple wings with dark violet spots. Match hand-drawn ink contours, watercolor/colored pencil textures, green ochre turquoise warm palette and detailed foreground, middle ground and background. Not a collage, flat vector or 3D. No captions, symbols, words, letters, panels or speech bubbles. Soft painted paper edges. This is a NEW distinct scene: Thoughtful Ping sits quietly on a low curved wooden bench in Brenda's garden, green gloves resting beside him. He looks contemplative and a little sorry, listening to Brenda the purple butterfly hovering at his eye level. Detailed close foreground flowers and leaves, soft cottage behind, sunlit path toward the gate. Emotional theme: realizing friendship needs attention. No thought bubbles or text. No Popo in this image."
+    },
+    {
+      "asset": "dist/assets/garden-8.webp",
+      "prompt": "Use case illustration-story. Create ONE new square full-page text-free illustration in the EXACT established Ping the Panda picture-book world from these references. Keep Ping's round fluffy cream-white face and tummy, brown-black limbs and patches, forehead tuft, and Brenda's purple wings with dark violet spots. Match hand-drawn ink contours, watercolor/colored pencil textures, green ochre turquoise warm palette and detailed foreground, middle ground and background. Not a collage, flat vector or 3D. No captions, symbols, words, letters, panels or speech bubbles. Soft painted paper edges. This is a NEW distinct scene: Ping and Popo stand at the wooden garden gate talking face to face. Ping's paws are lowered and open, his mouth closed, head gently inclined as he listens attentively and apologetically. Popo has a pink flower beside her ear, and is speaking with a sincere thoughtful expression, one paw gesturing. A basket of vegetables rests on the ground nearby, not being offered. Brenda hovers discreetly in background. Rich garden vines, gate, flowers, cottage and hills. Theme: listening and apologizing, distinct from the existing image of exchanging a basket."
+    }
+  ]
+}
